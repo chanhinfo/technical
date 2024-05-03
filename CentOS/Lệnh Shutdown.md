@@ -2,7 +2,8 @@ Lệnh shutdown có nhiều tiện ích mà đôi khi chúng ta không biết ho
 
 1. Để reboot máy ngay lập tức bạn dùng lệnh sau:
 
-shutdown -r now
+`shutdown -r now`
+
 2. Giả sử bạn cần chạy một cái gì đó và sau đó cần shutdown máy bạn dùng lệnh sau:
 Lệnh này nói cho hệ thống biết sau 10 phút nữa hãy shutdown máy tính.
 Lệnh này có thể dùng cho việc reboot máy bằng cách thay -h bằng -r
